@@ -1,0 +1,3 @@
+want to perform the event reconstruction on a rule basis
+	i.e. examine the next layer based on previous layer's information
+	
